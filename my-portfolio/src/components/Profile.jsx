@@ -165,7 +165,7 @@ const Profile = () => {
         </Section>
         
         {/* Call-to-Action Button */}
-        <ActionButton href="#contact">
+        <ActionButton href="/contact">
           Connect with Me
         </ActionButton>
       </ProfileContainer>
