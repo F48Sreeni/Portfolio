@@ -12,7 +12,8 @@
   color: white;
   min-height: 100vh;
 `,g=c.a.img`
-  width: 150px;
+  width: 250px;
+  height: 150px;
   border-radius: 1%;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s;
@@ -136,5 +137,5 @@
       color: #ffd700;
     }
   }
-`;var F=()=>l.a.createElement(Q,null,l.a.createElement("p",null,"\xa9 2024 Sreenitha Garipelli. All rights reserved."),l.a.createElement(N,null,l.a.createElement("a",{href:"https://github.com/{your-username}",target:"_blank",rel:"noopener noreferrer"},l.a.createElement(D.a,{icon:Y.a})),l.a.createElement("a",{href:"https://www.linkedin.com/in/{your-linkedin}/",target:"_blank",rel:"noopener noreferrer"},l.a.createElement(D.a,{icon:Y.b})),l.a.createElement("a",{href:"mailto:sreenithagaripelli@gmail.com"},l.a.createElement(D.a,{icon:Y.c}))));n(29);var G=function(){return l.a.createElement(o.a,null,l.a.createElement("div",{className:"App"},l.a.createElement(H,null),l.a.createElement(i.d,null,l.a.createElement(i.b,{path:"/portfolio",element:l.a.createElement(E,null)}),l.a.createElement(i.b,{path:"/about",element:l.a.createElement(T,null)}),l.a.createElement(i.b,{path:"/profile",element:l.a.createElement(W,null)}),l.a.createElement(i.b,{path:"/contact",element:l.a.createElement(P,null)}),l.a.createElement(i.b,{path:"*",element:l.a.createElement(i.a,{to:"/"})})),l.a.createElement(F,null)))};A.a.createRoot(document.getElementById("root")).render(l.a.createElement(l.a.StrictMode,null,l.a.createElement(G,null)))}},[[20,1,2]]]);
-//# sourceMappingURL=main.103442c2.chunk.js.map
+`;var F=()=>l.a.createElement(Q,null,l.a.createElement("p",null,"\xa9 2024 Sreenitha Garipelli. All rights reserved."),l.a.createElement(N,null,l.a.createElement("a",{href:"https://github.com/{your-username}",target:"_blank",rel:"noopener noreferrer"},l.a.createElement(D.a,{icon:Y.a})),l.a.createElement("a",{href:"https://www.linkedin.com/in/{your-linkedin}/",target:"_blank",rel:"noopener noreferrer"},l.a.createElement(D.a,{icon:Y.b})),l.a.createElement("a",{href:"mailto:sreenithagaripelli@gmail.com"},l.a.createElement(D.a,{icon:Y.c}))));n(29);var G=function(){return l.a.createElement(o.a,null,l.a.createElement("div",{className:"App"},l.a.createElement(H,null),l.a.createElement(i.d,null,l.a.createElement(i.b,{path:"/",element:l.a.createElement(E,null)}),l.a.createElement(i.b,{path:"/about",element:l.a.createElement(T,null)}),l.a.createElement(i.b,{path:"/profile",element:l.a.createElement(W,null)}),l.a.createElement(i.b,{path:"/contact",element:l.a.createElement(P,null)}),l.a.createElement(i.b,{path:"*",element:l.a.createElement(i.a,{to:"/"})})),l.a.createElement(F,null)))};A.a.createRoot(document.getElementById("root")).render(l.a.createElement(l.a.StrictMode,null,l.a.createElement(G,null)))}},[[20,1,2]]]);
+//# sourceMappingURL=main.e219e1c5.chunk.js.map
