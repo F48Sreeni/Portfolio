@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f8189e9.chunk.css",
-    "main.js": "/static/js/main.68de7292.chunk.js",
-    "main.js.map": "/static/js/main.68de7292.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.06e93911.js",
-    "runtime-main.js.map": "/static/js/runtime-main.06e93911.js.map",
-    "static/js/2.40415b78.chunk.js": "/static/js/2.40415b78.chunk.js",
-    "static/js/2.40415b78.chunk.js.map": "/static/js/2.40415b78.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.51bdf17db2815b5c93fe359049a612b9.js": "/precache-manifest.51bdf17db2815b5c93fe359049a612b9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3f8189e9.chunk.css.map": "/static/css/main.3f8189e9.chunk.css.map",
-    "static/js/2.40415b78.chunk.js.LICENSE.txt": "/static/js/2.40415b78.chunk.js.LICENSE.txt",
-    "static/media/blood-donor.jpg": "/static/media/blood-donor.0d08c841.jpg",
-    "static/media/flightnex.jpg": "/static/media/flightnex.3605793a.jpg"
+    "main.css": "/Portfolio/static/css/main.3f8189e9.chunk.css",
+    "main.js": "/Portfolio/static/js/main.18787097.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.18787097.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.90efdbf3.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.90efdbf3.js.map",
+    "static/js/2.ddd6edcc.chunk.js": "/Portfolio/static/js/2.ddd6edcc.chunk.js",
+    "static/js/2.ddd6edcc.chunk.js.map": "/Portfolio/static/js/2.ddd6edcc.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.0c07f4ab7abd08096b2ec44a1a35bcf9.js": "/Portfolio/precache-manifest.0c07f4ab7abd08096b2ec44a1a35bcf9.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.3f8189e9.chunk.css.map": "/Portfolio/static/css/main.3f8189e9.chunk.css.map",
+    "static/js/2.ddd6edcc.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.ddd6edcc.chunk.js.LICENSE.txt",
+    "static/media/blood-donor.jpg": "/Portfolio/static/media/blood-donor.0d08c841.jpg",
+    "static/media/flightnex.jpg": "/Portfolio/static/media/flightnex.3605793a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.06e93911.js",
-    "static/js/2.40415b78.chunk.js",
+    "static/js/runtime-main.90efdbf3.js",
+    "static/js/2.ddd6edcc.chunk.js",
     "static/css/main.3f8189e9.chunk.css",
-    "static/js/main.68de7292.chunk.js"
+    "static/js/main.18787097.chunk.js"
   ]
 }

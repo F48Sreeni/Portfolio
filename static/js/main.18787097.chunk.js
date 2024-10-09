@@ -23,7 +23,7 @@
 `,f=m.a.h3`
   margin-top: 20px;
   color: #ffd700;
-`;var x=()=>r.a.createElement(h,null,r.a.createElement(u,{title:"Welcome to My Portfolio"},r.a.createElement(E,{src:d.a,alt:"Sreenitha Garipelli"}),r.a.createElement(f,null,"I am Sreenitha Garipelli, an aspiring software engineer passionate about building efficient software solutions."),r.a.createElement("p",null,"I specialize in developing full-stack web applications using modern frameworks and technologies like React, Node.js, and MongoDB. My goal is to create applications that provide exceptional user experiences and meet the needs of clients and users alike."),r.a.createElement("p",null,"When I'm not coding, I enjoy learning new technologies, exploring the latest trends in web development, and contributing to open-source projects.")));const b=m.a.div`
+`;var b=()=>r.a.createElement(h,null,r.a.createElement(u,{title:"Welcome to My Portfolio"},r.a.createElement(E,{src:d.a,alt:"Sreenitha Garipelli"}),r.a.createElement(f,null,"I am Sreenitha Garipelli, an aspiring software engineer passionate about building efficient software solutions."),r.a.createElement("p",null,"I specialize in developing full-stack web applications using modern frameworks and technologies like React, Node.js, and MongoDB. My goal is to create applications that provide exceptional user experiences and meet the needs of clients and users alike."),r.a.createElement("p",null,"When I'm not coding, I enjoy learning new technologies, exploring the latest trends in web development, and contributing to open-source projects.")));const x=m.a.div`
   background: #f9f9f9;
   border-radius: 10px;
   padding: 20px;
@@ -39,7 +39,7 @@
     width: 100%;
     border-radius: 10px;
   }
-`;var v=e=>{let{title:t,description:a,image:n}=e;return r.a.createElement(b,null,r.a.createElement("img",{src:n,alt:t}),r.a.createElement("h3",null,t),r.a.createElement("p",null,a))},w=a(17),y=a.n(w);const k=m.a.div`
+`;var v=e=>{let{title:t,description:a,image:n}=e;return r.a.createElement(x,null,r.a.createElement("img",{src:n,alt:t}),r.a.createElement("h3",null,t),r.a.createElement("p",null,a))},w=a(17),y=a.n(w);const k=m.a.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 20px;
@@ -100,5 +100,5 @@
       color: #ffd700;
     }
   }
-`;var D=()=>r.a.createElement(T,null,r.a.createElement("p",null,"\xa9 2024 Sreenitha Garipelli. All rights reserved."),r.a.createElement(U,null,r.a.createElement("a",{href:"https://github.com/{your-username}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(z.a,{icon:R.a})),r.a.createElement("a",{href:"https://www.linkedin.com/in/{your-linkedin}/",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(z.a,{icon:R.b})),r.a.createElement("a",{href:"mailto:sreenithagaripelli@gmail.com"},r.a.createElement(z.a,{icon:R.c}))));a(28);var F=function(){return r.a.createElement(i.a,null,r.a.createElement("div",{className:"App"},r.a.createElement(N,null),r.a.createElement(c.c,null,r.a.createElement(c.a,{path:"/",element:r.a.createElement(x,null)}),r.a.createElement(c.a,{path:"/about",element:r.a.createElement(I,null)}),r.a.createElement(c.a,{path:"/profile",element:r.a.createElement(A,null)}),r.a.createElement(c.a,{path:"/contact",element:r.a.createElement(B,null)})),r.a.createElement(D,null)))};o.a.createRoot(document.getElementById("root")).render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(F,null)))},7:function(e,t,a){e.exports=a.p+"static/media/flightnex.3605793a.jpg"}},[[19,1,2]]]);
-//# sourceMappingURL=main.68de7292.chunk.js.map
+`;var D=()=>r.a.createElement(T,null,r.a.createElement("p",null,"\xa9 2024 Sreenitha Garipelli. All rights reserved."),r.a.createElement(U,null,r.a.createElement("a",{href:"https://github.com/{your-username}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(z.a,{icon:R.a})),r.a.createElement("a",{href:"https://www.linkedin.com/in/{your-linkedin}/",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(z.a,{icon:R.b})),r.a.createElement("a",{href:"mailto:sreenithagaripelli@gmail.com"},r.a.createElement(z.a,{icon:R.c}))));a(28);var F=function(){return r.a.createElement(i.a,null,r.a.createElement("div",{className:"App"},r.a.createElement(N,null),r.a.createElement(c.d,null,r.a.createElement(c.b,{path:"/",element:r.a.createElement(b,null)}),r.a.createElement(c.b,{path:"/about",element:r.a.createElement(I,null)}),r.a.createElement(c.b,{path:"/profile",element:r.a.createElement(A,null)}),r.a.createElement(c.b,{path:"/contact",element:r.a.createElement(B,null)}),r.a.createElement(c.b,{path:"*",element:r.a.createElement(c.a,{to:"/"})})),r.a.createElement(D,null)))};o.a.createRoot(document.getElementById("root")).render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(F,null)))},7:function(e,t,a){e.exports=a.p+"static/media/flightnex.3605793a.jpg"}},[[19,1,2]]]);
+//# sourceMappingURL=main.18787097.chunk.js.map
