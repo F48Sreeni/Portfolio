@@ -3,48 +3,101 @@ import PageWrapper from './PageWrapper';
 import styled from 'styled-components';
 import profileImg from '../assets/profile.png';
 
+// Background styling with a gradient overlay for a premium look
 const Background = styled.div`
-  background: url('https://source.unsplash.com/1600x900/?technology') no-repeat center center/cover;
-  padding: 80px 0;
+  background: linear-gradient(135deg, #f8f9fa, #e9ecef),
+    url('https://source.unsplash.com/1600x900/?technology') no-repeat center center/cover;
+  padding: 100px 20px;
   color: white;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 `;
 
+// Container for the profile section
+const ProfileContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+`;
+
+// Profile image with hover effect
 const ProfileImage = styled.img`
-  width: 250px;
-  height: 150px;
-  border-radius: 1%;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  width: 180px;
+  height: 180px;
+  border-radius: 30%;
+  border: 3px solid #ffd700;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
   transition: transform 0.3s;
 
   &:hover {
-    transform: scale(1.05);
+    transform: scale(1.1);
   }
 `;
 
-const WelcomeMessage = styled.h3`
+// Styled welcome message
+const WelcomeMessage = styled.h2`
   margin-top: 20px;
-  color: #ffd700;
+  color: #black;
+  font-size: 2rem;
+  font-weight: bold;
+`;
+
+// Content styling
+const Description = styled.p`
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #black;
+  margin-top: 15px;
+  margin-bottom: 20px;
+`;
+
+// Button styling for Call-to-Action
+const ActionButton = styled.a`
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #0073e6;
+  color: white;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: #005bb5;
+  }
 `;
 
 const Home = () => {
   return (
     <Background>
       <PageWrapper title="Welcome to My Portfolio">
-        <ProfileImage 
-          src={profileImg} 
-          alt="Sreenitha Garipelli"
-        />
-        <WelcomeMessage>
-          I am Sreenitha Garipelli, an aspiring software engineer passionate about building efficient software solutions.
-        </WelcomeMessage>
-        <p>
-          I specialize in developing full-stack web applications using modern frameworks and technologies like React, Node.js, and MongoDB. 
-          My goal is to create applications that provide exceptional user experiences and meet the needs of clients and users alike.
-        </p>
-        <p>
-          When I'm not coding, I enjoy learning new technologies, exploring the latest trends in web development, and contributing to open-source projects.
-        </p>
+        <ProfileContainer>
+          <ProfileImage src={profileImg} alt="Sreenitha Garipelli" />
+          <WelcomeMessage>
+            Hi, I'm Sreenitha Garipelli
+          </WelcomeMessage>
+          <Description>
+            As a passionate software engineer, I specialize in developing full-stack web applications that provide intuitive and engaging user experiences. 
+            Skilled in modern frameworks and technologies like React, Node.js, and MongoDB, I aim to create impactful digital solutions that help clients achieve their goals.
+          </Description>
+          <Description>
+            Outside of coding, I immerse myself in learning new technologies, exploring the latest trends in web development, and contributing to open-source projects to give back to the community.
+          </Description>
+          <ActionButton href="/contact">
+            Get in Touch
+          </ActionButton>
+        </ProfileContainer>
       </PageWrapper>
     </Background>
   );
