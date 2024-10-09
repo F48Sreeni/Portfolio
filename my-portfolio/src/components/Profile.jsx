@@ -88,7 +88,7 @@ const Profile = () => {
               <SkillLabel>MySQL</SkillLabel>
             </SkillCard>
             <SkillCard>
-              <SkillIcon src="https://www.flaticon.com/free-icon/js_5968292" alt="JavaScript" />
+              <SkillIcon src="https://img.icons8.com/js" alt="JavaScript" />
               <SkillLabel>JavaScript</SkillLabel>
             </SkillCard>
             <SkillCard>

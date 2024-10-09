@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin, faMailchimp } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 const FooterWrapper = styled.footer`
   background: #333;
@@ -36,9 +36,6 @@ const Footer = () => {
         </a>
         <a href="https://www.linkedin.com/in/{your-linkedin}/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} />
-        </a>
-        <a href="mailto:sreenithagaripelli@gmail.com">
-          <FontAwesomeIcon icon={faMailchimp} />
         </a>
       </SocialIcons>
     </FooterWrapper>
