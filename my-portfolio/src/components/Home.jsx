@@ -11,7 +11,8 @@ const Background = styled.div`
 `;
 
 const ProfileImage = styled.img`
-  width: 150px;
+  width: 250px;
+  height: 150px;
   border-radius: 1%;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s;
