@@ -94,9 +94,6 @@ const Home = () => {
           <Description>
             Outside of coding, I immerse myself in learning new technologies, exploring the latest trends in web development, and contributing to open-source projects to give back to the community.
           </Description>
-          <ActionButton href="/contact">
-            Get in Touch
-          </ActionButton>
         </ProfileContainer>
       </PageWrapper>
     </Background>

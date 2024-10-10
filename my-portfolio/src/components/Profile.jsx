@@ -164,10 +164,7 @@ const Profile = () => {
           </SectionContent>
         </Section>
         
-        {/* Call-to-Action Button */}
-        <ActionButton href="/contact">
-          Connect with Me
-        </ActionButton>
+        
       </ProfileContainer>
     </PageWrapper>
   );
