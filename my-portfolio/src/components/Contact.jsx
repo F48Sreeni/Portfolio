@@ -82,7 +82,7 @@ const Contact = () => {
         </ContactItem>
         <ContactItem>
           <Icon icon={faMapMarkerAlt} />
-          Bayyaram, Mahabubabad, India
+          Mahabubabad, Telangana, India
         </ContactItem>
 
         <Heading>Get in Touch</Heading>

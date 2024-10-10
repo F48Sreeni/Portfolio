@@ -61,22 +61,7 @@ const Description = styled.p`
   margin-bottom: 20px;
 `;
 
-// Button styling for Call-to-Action
-const ActionButton = styled.a`
-  display: inline-block;
-  margin-top: 20px;
-  padding: 10px 20px;
-  background-color: #0073e6;
-  color: white;
-  border-radius: 25px;
-  text-decoration: none;
-  font-weight: bold;
-  transition: background-color 0.3s;
 
-  &:hover {
-    background-color: #005bb5;
-  }
-`;
 
 const Home = () => {
   return (
