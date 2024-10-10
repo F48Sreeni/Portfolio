@@ -49,7 +49,7 @@
   color: #black;
   margin-top: 15px;
   margin-bottom: 20px;
-`,E=A.a.a`
+`;A.a.a`
   display: inline-block;
   margin-top: 20px;
   padding: 10px 20px;
@@ -63,7 +63,7 @@
   &:hover {
     background-color: #005bb5;
   }
-`;var y=()=>r.a.createElement(g,null,r.a.createElement(d,{title:"Welcome to My Portfolio"},r.a.createElement(h,null,r.a.createElement(x,{src:u.a,alt:"Sreenitha Garipelli"}),r.a.createElement(b,null,"Hi, I'm Sreenitha Garipelli"),r.a.createElement(f,null,"As a passionate software engineer, I specialize in developing full-stack web applications that provide intuitive and engaging user experiences. Skilled in modern frameworks and technologies like React, Node.js, and MongoDB, I aim to create impactful digital solutions that help clients achieve their goals."),r.a.createElement(f,null,"Outside of coding, I immerse myself in learning new technologies, exploring the latest trends in web development, and contributing to open-source projects to give back to the community."),r.a.createElement(E,{href:"/contact"},"Get in Touch"))));const w=A.a.div`
+`;var E=()=>r.a.createElement(g,null,r.a.createElement(d,{title:"Welcome to My Portfolio"},r.a.createElement(h,null,r.a.createElement(x,{src:u.a,alt:"Sreenitha Garipelli"}),r.a.createElement(b,null,"Hi, I'm Sreenitha Garipelli"),r.a.createElement(f,null,"As a passionate software engineer, I specialize in developing full-stack web applications that provide intuitive and engaging user experiences. Skilled in modern frameworks and technologies like React, Node.js, and MongoDB, I aim to create impactful digital solutions that help clients achieve their goals."),r.a.createElement(f,null,"Outside of coding, I immerse myself in learning new technologies, exploring the latest trends in web development, and contributing to open-source projects to give back to the community."))));const y=A.a.div`
   background: #f9f9f9;
   border-radius: 10px;
   padding: 20px;
@@ -79,7 +79,7 @@
     width: 100%;
     border-radius: 10px;
   }
-`;var v=e=>{let{title:t,description:n,image:a}=e;return r.a.createElement(w,null,r.a.createElement("img",{src:a,alt:t}),r.a.createElement("h3",null,t),r.a.createElement("p",null,n))},k=n(18),M=n.n(k),z=n(19),O=n.n(z);const T=A.a.div`
+`;var w=e=>{let{title:t,description:n,image:a}=e;return r.a.createElement(y,null,r.a.createElement("img",{src:a,alt:t}),r.a.createElement("h3",null,t),r.a.createElement("p",null,n))},v=n(18),k=n.n(v),M=n(19),z=n.n(M);const O=A.a.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center; /* Centers items horizontally */
@@ -89,28 +89,28 @@
   width: 80%;
   max-width: 1200px; /* Optional: To restrict the width for larger screens */
   padding: 20px; /* Optional: Adds padding around the container */
-`,j=A.a.div`
+`,T=A.a.div`
   margin: 30px 0;
   text-align: center;
-`,L=A.a.h4`
+`,j=A.a.h4`
   font-size: 1.8rem;
   margin-bottom: 20px;
   color: #007bff;
   border-bottom: 3px solid #007bff;
   display: inline-block;
   padding-bottom: 5px;
-`,X=A.a.p`
+`,L=A.a.p`
   font-size: 1.1rem;
   color: #555;
   line-height: 1.8;
   max-width: 800px;
   margin: 0 auto;
   text-align: center;
-`,S=Object(A.a)(X)`
+`,X=Object(A.a)(L)`
   margin-top: 20px;
   font-size: 1.2rem;
   color: #333;
-`,I=[{title:"FlightNex",description:"A flight ticket booking system built with the MERN stack, featuring a user-friendly interface for searching and booking flights.",image:M.a},{title:"Blood Bank Management System",description:"A platform that connects blood donors with recipients, providing easy access to donor information based on location.",image:O.a}];var V=()=>r.a.createElement(d,{title:"My Projects"},r.a.createElement(j,null,r.a.createElement(S,null,"I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Anurag University. My passion lies in developing efficient and user-centric software solutions. Below are some of the projects I\u2019ve built to hone my skills and provide real-world solutions:")),r.a.createElement(T,null,I.map((e,t)=>r.a.createElement(v,Object.assign({key:t},e)))),r.a.createElement(j,null,r.a.createElement(L,null,"Future Goals"),r.a.createElement(X,null,"As I continue my journey as a software engineer, I aim to contribute to innovative projects that solve real-world problems. My goal is to work in a challenging and dynamic environment where I can collaborate with talented professionals while expanding my expertise in cutting-edge technologies.")));const Z=A.a.div`
+`,S=[{title:"FlightNex",description:"A flight ticket booking system built with the MERN stack, featuring a user-friendly interface for searching and booking flights.",image:k.a},{title:"Blood Bank Management System",description:"A platform that connects blood donors with recipients, providing easy access to donor information based on location.",image:z.a}];var I=()=>r.a.createElement(d,{title:"My Projects"},r.a.createElement(T,null,r.a.createElement(X,null,"I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Anurag University. My passion lies in developing efficient and user-centric software solutions. Below are some of the projects I\u2019ve built to hone my skills and provide real-world solutions:")),r.a.createElement(O,null,S.map((e,t)=>r.a.createElement(w,Object.assign({key:t},e)))),r.a.createElement(T,null,r.a.createElement(j,null,"Future Goals"),r.a.createElement(L,null,"As I continue my journey as a software engineer, I aim to contribute to innovative projects that solve real-world problems. My goal is to work in a challenging and dynamic environment where I can collaborate with talented professionals while expanding my expertise in cutting-edge technologies.")));const V=A.a.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -121,13 +121,13 @@
   border-radius: 15px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   margin-top: 50px;
-`,W=A.a.div`
+`,Z=A.a.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   gap: 20px;
   margin: 20px 0;
   justify-items: center;
-`,P=A.a.div`
+`,W=A.a.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -142,29 +142,29 @@
     transform: translateY(-5px);
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
   }
-`,U=A.a.img`
+`,P=A.a.img`
   width: 60px;
   margin-bottom: 10px;
-`,q=A.a.p`
+`,U=A.a.p`
   font-size: 1rem;
   color: #333;
   margin: 0;
-`,R=A.a.div`
+`,q=A.a.div`
   margin: 40px 0;
   width: 100%;
   text-align: center;
-`,J=A.a.h4`
+`,R=A.a.h4`
   font-size: 1.8rem;
   margin-bottom: 20px;
   color: #007bff;
   border-bottom: 3px solid #007bff;
   display: inline-block;
   padding-bottom: 5px;
-`,D=A.a.p`
+`,J=A.a.p`
   font-size: 1.1rem;
   color: #555;
   line-height: 1.8;
-`,H=A.a.a`
+`;A.a.a`
   display: inline-block;
   margin-top: 30px;
   padding: 10px 25px;
@@ -178,7 +178,7 @@
   &:hover {
     background-color: #0056b3;
   }
-`;var N=()=>r.a.createElement(d,{title:"Profile"},r.a.createElement(Z,null,r.a.createElement(D,null,"I am an aspiring software engineer aiming to contribute to innovative projects and work with talented teams to develop high-quality software. I have experience in various programming languages and technologies, and I'm passionate about building scalable, efficient solutions."),r.a.createElement(R,null,r.a.createElement(J,null,"Skills"),r.a.createElement(W,null,r.a.createElement(P,null,r.a.createElement(U,{src:"https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png",alt:"Java"}),r.a.createElement(q,null,"Java")),r.a.createElement(P,null,r.a.createElement(U,{src:"https://img.icons8.com/color/48/000000/mysql-logo.png",alt:"MySQL"}),r.a.createElement(q,null,"MySQL")),r.a.createElement(P,null,r.a.createElement(U,{src:"https://img.icons8.com/js",alt:"JavaScript"}),r.a.createElement(q,null,"JavaScript")),r.a.createElement(P,null,r.a.createElement(U,{src:"https://img.icons8.com/color/48/000000/react-native.png",alt:"ReactJS"}),r.a.createElement(q,null,"ReactJS")),r.a.createElement(P,null,r.a.createElement(U,{src:"https://img.icons8.com/color/48/000000/python.png",alt:"Python"}),r.a.createElement(q,null,"Python")),r.a.createElement(P,null,r.a.createElement(U,{src:"https://img.icons8.com/?size=100&id=54087&format=png&color=000000",alt:"NodeJS"}),r.a.createElement(q,null,"NodeJs")),r.a.createElement(P,null,r.a.createElement(U,{src:"https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000",alt:"MogoDb"}),r.a.createElement(q,null,"MongoDB")))),r.a.createElement(R,null,r.a.createElement(J,null,"Education"),r.a.createElement(D,null,"Bachelor of Technology in Computer Science and Engineering",r.a.createElement("br",null),"Anurag University, Hyderabad",r.a.createElement("br",null),"CGPA: 7.72")),r.a.createElement(R,null,r.a.createElement(J,null,"Interests"),r.a.createElement(D,null,"- Web Development",r.a.createElement("br",null),"- Open Source Contributions",r.a.createElement("br",null),"- Learning New Technologies",r.a.createElement("br",null),"- UI/UX Design")),r.a.createElement(H,{href:"/contact"},"Connect with Me"))),Y=n(7),Q=n(10),G=n(8);const F=A.a.div`
+`;var D=()=>r.a.createElement(d,{title:"Profile"},r.a.createElement(V,null,r.a.createElement(J,null,"I am an aspiring software engineer aiming to contribute to innovative projects and work with talented teams to develop high-quality software. I have experience in various programming languages and technologies, and I'm passionate about building scalable, efficient solutions."),r.a.createElement(q,null,r.a.createElement(R,null,"Skills"),r.a.createElement(Z,null,r.a.createElement(W,null,r.a.createElement(P,{src:"https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png",alt:"Java"}),r.a.createElement(U,null,"Java")),r.a.createElement(W,null,r.a.createElement(P,{src:"https://img.icons8.com/color/48/000000/mysql-logo.png",alt:"MySQL"}),r.a.createElement(U,null,"MySQL")),r.a.createElement(W,null,r.a.createElement(P,{src:"https://img.icons8.com/js",alt:"JavaScript"}),r.a.createElement(U,null,"JavaScript")),r.a.createElement(W,null,r.a.createElement(P,{src:"https://img.icons8.com/color/48/000000/react-native.png",alt:"ReactJS"}),r.a.createElement(U,null,"ReactJS")),r.a.createElement(W,null,r.a.createElement(P,{src:"https://img.icons8.com/color/48/000000/python.png",alt:"Python"}),r.a.createElement(U,null,"Python")),r.a.createElement(W,null,r.a.createElement(P,{src:"https://img.icons8.com/?size=100&id=54087&format=png&color=000000",alt:"NodeJS"}),r.a.createElement(U,null,"NodeJs")),r.a.createElement(W,null,r.a.createElement(P,{src:"https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000",alt:"MogoDb"}),r.a.createElement(U,null,"MongoDB")))),r.a.createElement(q,null,r.a.createElement(R,null,"Education"),r.a.createElement(J,null,"Bachelor of Technology in Computer Science and Engineering",r.a.createElement("br",null),"Anurag University, Hyderabad",r.a.createElement("br",null),"CGPA: 7.72")),r.a.createElement(q,null,r.a.createElement(R,null,"Interests"),r.a.createElement(J,null,"- Web Development",r.a.createElement("br",null),"- Open Source Contributions",r.a.createElement("br",null),"- Learning New Technologies",r.a.createElement("br",null),"- UI/UX Design")))),H=n(7),N=n(10),Y=n(8);const Q=A.a.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -188,31 +188,31 @@
   background: #f8f9fa;
   border-radius: 15px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-`,C=A.a.div`
+`,F=A.a.div`
   display: flex;
   align-items: center;
   margin: 15px 0;
   font-size: 1.1rem;
   color: #333;
-`,K=Object(A.a)(Y.a)`
+`,G=Object(A.a)(H.a)`
   margin-right: 10px;
   color: #007bff;
-`,B=A.a.h4`
+`,C=A.a.h4`
   font-size: 1.8rem;
   color: #007bff;
   margin-bottom: 20px;
   text-align: center;
-`,_=A.a.p`
+`,K=A.a.p`
   font-size: 1rem;
   color: #555;
   line-height: 1.8;
   text-align: center;
-`,$=A.a.div`
+`,B=A.a.div`
   margin-top: 20px;
   display: flex;
   justify-content: center;
   gap: 20px;
-`,ee=A.a.a`
+`,_=A.a.a`
   color: #007bff;
   font-size: 1.5rem;
   transition: color 0.3s;
@@ -220,21 +220,21 @@
   &:hover {
     color: #0056b3;
   }
-`;var te=()=>r.a.createElement(d,{title:"Contact Me"},r.a.createElement(F,null,r.a.createElement(C,null,r.a.createElement(K,{icon:Q.a}),r.a.createElement("a",{href:"mailto:sreenithagaripelli@gmail.com"},"sreenithagaripelli@gmail.com")),r.a.createElement(C,null,r.a.createElement(K,{icon:Q.c}),r.a.createElement("a",{href:"tel:9542458102"},"+91 9542458102")),r.a.createElement(C,null,r.a.createElement(K,{icon:Q.b}),"Bayyaram, Mahabubabad, India"),r.a.createElement(B,null,"Get in Touch"),r.a.createElement(_,null,"I am always open to collaboration and networking opportunities. Whether you're interested in discussing a potential project, exploring innovative ideas, or just connecting, feel free to reach out!"),r.a.createElement($,null,r.a.createElement(ee,{href:"https://github.com/{your-github}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(Y.a,{icon:G.a})),r.a.createElement(ee,{href:"https://www.linkedin.com/in/{your-linkedin}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(Y.a,{icon:G.b})))));const ne=A.a.nav`
+`;var $=()=>r.a.createElement(d,{title:"Contact Me"},r.a.createElement(Q,null,r.a.createElement(F,null,r.a.createElement(G,{icon:N.a}),r.a.createElement("a",{href:"mailto:sreenithagaripelli@gmail.com"},"sreenithagaripelli@gmail.com")),r.a.createElement(F,null,r.a.createElement(G,{icon:N.c}),r.a.createElement("a",{href:"tel:9542458102"},"+91 9542458102")),r.a.createElement(F,null,r.a.createElement(G,{icon:N.b}),"Bayyaram, Mahabubabad, India"),r.a.createElement(C,null,"Get in Touch"),r.a.createElement(K,null,"I am always open to collaboration and networking opportunities. Whether you're interested in discussing a potential project, exploring innovative ideas, or just connecting, feel free to reach out!"),r.a.createElement(B,null,r.a.createElement(_,{href:"https://github.com/{your-github}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(H.a,{icon:Y.a})),r.a.createElement(_,{href:"https://www.linkedin.com/in/{your-linkedin}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(H.a,{icon:Y.b})))));const ee=A.a.nav`
   background: linear-gradient(90deg, rgba(34, 190, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
   padding: 20px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   position: fixed;
   width: 100%;
   z-index: 1000;
-`,ae=A.a.ul`
+`,te=A.a.ul`
   list-style-type: none;
   display: flex;
   justify-content: center;
   margin: 0;
-`,re=A.a.li`
+`,ne=A.a.li`
   margin: 0 15px;
-`,le=Object(A.a)(i.b)`
+`,ae=Object(A.a)(i.b)`
   color: white;
   text-decoration: none;
   font-weight: bold;
@@ -244,12 +244,12 @@
   &:hover {
     color: #ffd700;
   }
-`;var oe=()=>r.a.createElement(ne,null,r.a.createElement(ae,null,r.a.createElement(re,null,r.a.createElement(le,{to:"/"},"Home")),r.a.createElement(re,null,r.a.createElement(le,{to:"/profile"},"Profile")),r.a.createElement(re,null,r.a.createElement(le,{to:"/about"},"About")),r.a.createElement(re,null,r.a.createElement(le,{to:"/contact"},"Contact"))));const ie=A.a.footer`
+`;var re=()=>r.a.createElement(ee,null,r.a.createElement(te,null,r.a.createElement(ne,null,r.a.createElement(ae,{to:"/"},"Home")),r.a.createElement(ne,null,r.a.createElement(ae,{to:"/profile"},"Profile")),r.a.createElement(ne,null,r.a.createElement(ae,{to:"/about"},"About")),r.a.createElement(ne,null,r.a.createElement(ae,{to:"/contact"},"Contact"))));const le=A.a.footer`
   background: #333;
   color: white;
   padding: 20px;
   text-align: center;
-`,ce=A.a.div`
+`,oe=A.a.div`
   margin: 10px 0;
 
   a {
@@ -263,5 +263,5 @@
       color: #ffd700;
     }
   }
-`;var Ae=()=>r.a.createElement(ie,null,r.a.createElement("p",null,"\xa9 2024 Sreenitha Garipelli. All rights reserved."),r.a.createElement(ce,null,r.a.createElement("a",{href:"https://github.com/{your-username}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(Y.a,{icon:G.a})),r.a.createElement("a",{href:"https://www.linkedin.com/in/{your-linkedin}/",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(Y.a,{icon:G.b}))));n(30);var me=function(){return r.a.createElement(i.a,null,r.a.createElement("div",{className:"App"},r.a.createElement(oe,null),r.a.createElement(c.d,null,r.a.createElement(c.b,{path:"/",element:r.a.createElement(y,null)}),r.a.createElement(c.b,{path:"/about",element:r.a.createElement(V,null)}),r.a.createElement(c.b,{path:"/profile",element:r.a.createElement(N,null)}),r.a.createElement(c.b,{path:"/contact",element:r.a.createElement(te,null)}),r.a.createElement(c.b,{path:"*",element:r.a.createElement(c.a,{to:"/"})})),r.a.createElement(Ae,null)))};o.a.createRoot(document.getElementById("root")).render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(me,null)))}},[[21,1,2]]]);
-//# sourceMappingURL=main.5a745515.chunk.js.map
+`;var ie=()=>r.a.createElement(le,null,r.a.createElement("p",null,"\xa9 2024 Sreenitha Garipelli. All rights reserved."),r.a.createElement(oe,null,r.a.createElement("a",{href:"https://github.com/{your-username}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(H.a,{icon:Y.a})),r.a.createElement("a",{href:"https://www.linkedin.com/in/{your-linkedin}/",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(H.a,{icon:Y.b}))));n(30);var ce=function(){return r.a.createElement(i.a,null,r.a.createElement("div",{className:"App"},r.a.createElement(re,null),r.a.createElement(c.d,null,r.a.createElement(c.b,{path:"/",element:r.a.createElement(E,null)}),r.a.createElement(c.b,{path:"/about",element:r.a.createElement(I,null)}),r.a.createElement(c.b,{path:"/profile",element:r.a.createElement(D,null)}),r.a.createElement(c.b,{path:"/contact",element:r.a.createElement($,null)}),r.a.createElement(c.b,{path:"*",element:r.a.createElement(c.a,{to:"/"})})),r.a.createElement(ie,null)))};o.a.createRoot(document.getElementById("root")).render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(ce,null)))}},[[21,1,2]]]);
+//# sourceMappingURL=main.0e90d6eb.chunk.js.map
