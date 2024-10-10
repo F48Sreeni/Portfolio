@@ -221,7 +221,7 @@
     color: #0056b3;
   }
 `;var te=()=>r.a.createElement(d,{title:"Contact Me"},r.a.createElement(F,null,r.a.createElement(C,null,r.a.createElement(K,{icon:Q.a}),r.a.createElement("a",{href:"mailto:sreenithagaripelli@gmail.com"},"sreenithagaripelli@gmail.com")),r.a.createElement(C,null,r.a.createElement(K,{icon:Q.c}),r.a.createElement("a",{href:"tel:9542458102"},"+91 9542458102")),r.a.createElement(C,null,r.a.createElement(K,{icon:Q.b}),"Bayyaram, Mahabubabad, India"),r.a.createElement(B,null,"Get in Touch"),r.a.createElement(_,null,"I am always open to collaboration and networking opportunities. Whether you're interested in discussing a potential project, exploring innovative ideas, or just connecting, feel free to reach out!"),r.a.createElement($,null,r.a.createElement(ee,{href:"https://github.com/{your-github}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(Y.a,{icon:G.a})),r.a.createElement(ee,{href:"https://www.linkedin.com/in/{your-linkedin}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(Y.a,{icon:G.b})))));const ne=A.a.nav`
-  background: linear-gradient(90deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  background: linear-gradient(90deg, rgba(34, 190, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
   padding: 20px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   position: fixed;
@@ -264,4 +264,4 @@
     }
   }
 `;var Ae=()=>r.a.createElement(ie,null,r.a.createElement("p",null,"\xa9 2024 Sreenitha Garipelli. All rights reserved."),r.a.createElement(ce,null,r.a.createElement("a",{href:"https://github.com/{your-username}",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(Y.a,{icon:G.a})),r.a.createElement("a",{href:"https://www.linkedin.com/in/{your-linkedin}/",target:"_blank",rel:"noopener noreferrer"},r.a.createElement(Y.a,{icon:G.b}))));n(30);var me=function(){return r.a.createElement(i.a,null,r.a.createElement("div",{className:"App"},r.a.createElement(oe,null),r.a.createElement(c.d,null,r.a.createElement(c.b,{path:"/",element:r.a.createElement(y,null)}),r.a.createElement(c.b,{path:"/about",element:r.a.createElement(V,null)}),r.a.createElement(c.b,{path:"/profile",element:r.a.createElement(N,null)}),r.a.createElement(c.b,{path:"/contact",element:r.a.createElement(te,null)}),r.a.createElement(c.b,{path:"*",element:r.a.createElement(c.a,{to:"/"})})),r.a.createElement(Ae,null)))};o.a.createRoot(document.getElementById("root")).render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(me,null)))}},[[21,1,2]]]);
-//# sourceMappingURL=main.23e5ba60.chunk.js.map
+//# sourceMappingURL=main.5a745515.chunk.js.map
