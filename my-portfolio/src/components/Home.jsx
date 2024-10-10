@@ -1,13 +1,13 @@
 import React from 'react';
 import PageWrapper from './PageWrapper';
 import styled from 'styled-components';
-import profileImg from '../assets/profile.png';
+import profileImg from '../assets/profile2.jpg';
 
 // Background styling with a gradient overlay for a premium look
 const Background = styled.div`
   background: linear-gradient(135deg, #f8f9fa, #e9ecef),
     url('https://source.unsplash.com/1600x900/?technology') no-repeat center center/cover;
-  padding: 100px 20px;
+  padding: 100px 30px;
   color: white;
   min-height: 100vh;
   display: flex;
@@ -32,7 +32,7 @@ const ProfileContainer = styled.div`
 
 // Profile image with hover effect
 const ProfileImage = styled.img`
-  width: 180px;
+  width: 250px;
   height: 180px;
   border-radius: 30%;
   border: 3px solid #ffd700;
